@@ -2,6 +2,8 @@
 
 **BabyKicks** is a simple and user-friendly **baby movement tracking** Android app built with **Jetpack Compose**. It allows expectant mothers to record and monitor their baby's kicks in the womb, helping them keep track of fetal movements efficiently.
 
+<!-- GitAds-Verify: HDY7F93M8RSVKNA6AFWSEXJBGTK1UP2D -->
+
 ---
 
 ## 📱 Features
