@@ -4,6 +4,10 @@
 
 <!-- GitAds-Verify: HDY7F93M8RSVKNA6AFWSEXJBGTK1UP2D -->
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=hashan-silva/baby-kicks@github)](https://gitads.dev/v1/ad-track?source=hashan-silva/baby-kicks@github)
+
+
 ---
 
 ## 📱 Features
